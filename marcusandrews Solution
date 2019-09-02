@@ -4,7 +4,7 @@
 from time import process_time as pt
 import os
 from collections import defaultdict
-os.chdir(r'C:\Users\Gabriel\Desktop')
+os.chdir#BLOCKED PATH FOR PRIVACY
 lines = open('.\Advent.txt').read().splitlines()
 
 coords = set()
