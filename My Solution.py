@@ -1,7 +1,7 @@
 from time import process_time as pt
 from collections import defaultdict as dd
 import os
-os.chdir(r'C:\Users\Gabriel\Desktop')
+os.chdir#BLOCKED PATH FOR PRIVACY
 lines = open('.\Advent.txt').read().splitlines()
 
 #We're gonna be referencing this extended alphabet
